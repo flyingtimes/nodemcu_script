@@ -73,6 +73,6 @@ conn:send("GET /apistore/stockservice/stock?stockid=sz000020&list=1 HTTP/1.1\r\n
     .."Host: apis.baidu.com\r\n"
     .."User-Agent: curl/7.45.0\r\n"
     .."Accept: */*\r\n"
-    .."apikey:5e6f11295b7f4de3541685cbdfb4ca0e\r\n\r\n")
+    .."apikey:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\r\n\r\n")
 
 end)
